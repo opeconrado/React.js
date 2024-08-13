@@ -28,7 +28,7 @@ interface Item {
           <ul>
             {/* Renderizando a lista de itens */}
             {items.map((item) => (
-              <li key={item.id}> name: {item.name} price: R${item.price.toFixed(2)} quantity: {item.quantity}</li>
+              <li key={item.id}> {item.name} price: R${item.price.toFixed(2)} quantity: {item.quantity}</li>
             ))}
           </ul>
         ) : (
