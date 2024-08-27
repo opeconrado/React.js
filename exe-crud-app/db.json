@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "id": "82fd",
+      "title": "O vento levou",
+      "autor": "Klebber",
+      "releaseDate": "2009",
+      "genre": "Action",
+      "numberOfPages": "300"
+    },
+    {
+      "id": "adfd",
+      "title": "Star Wars",
+      "autor": "Lucas",
+      "releaseDate": "1980",
+      "genre": "Action",
+      "numberOfPages": "350"
+    }
+  ]
+}
